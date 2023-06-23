@@ -11,11 +11,7 @@
   
 <h2> User's WordPress Website before </h2>
 
-<img src="https://drive.google.com/uc?export=view&id=1-0d-DWI_ZPpHdu4s4IbHDZGUm09Qhh8t" />
-
 <h2> User's Next.js Website now <h2>
-
-<img src="https://drive.google.com/uc?export=view&id=1IkSjiMAB_XF6K8P46w8eVGeHwrqTyrjE" />
 
 <h2> React.js </h2>
 
