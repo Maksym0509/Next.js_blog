@@ -1,7 +1,5 @@
 <h3> Website Owner: Erdi Serdar </h3>
 
-<a href="https://blog-web-app-erdiserdar.vercel.app/"> :green_circle:	 Live Demo
-
 <h2> Description: </h2>
 
 <p> A blog web application for the client to have both better UX/UI and performance.  <p>
